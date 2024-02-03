@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealEstateApp</string>
+    <string name="Home">Главная</string>
+    <string name="Go_to_the_shopping_cart">Перейти в корзину</string>
+    <string name="favourites">Избранное</string>
+    <string name="Information">Информация о недвижимости:</string>
+    <string name="City">Город</string>
+    <string name="Street">Улица</string>
+    <string name="Clear_cart">Очистить избранное</string>
+</resources>
